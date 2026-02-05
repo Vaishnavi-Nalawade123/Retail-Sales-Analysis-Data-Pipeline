@@ -1,0 +1,89 @@
+[
+  {
+    "order_id": "O2001",
+    "order_timestamp": "2026-01-03 10:15:00",
+    "store_id": "S01",
+    "items": [
+      { "product_id": "P101", "quantity": 2, "unit_price": 45 },
+      { "product_id": "P601", "quantity": 1, "unit_price": 60 }
+    ]
+  },
+  {
+    "order_id": "O2002",
+    "order_timestamp": "2026-01-03 18:45:00",
+    "store_id": "S02",
+    "items": [
+      { "product_id": "P201", "quantity": 1, "unit_price": 120 },
+      { "product_id": "P301", "quantity": 2, "unit_price": 50 }
+    ]
+  },
+  {
+    "order_id": "O2003",
+    "order_timestamp": "2026-01-04 11:30:00",
+    "store_id": "S03",
+    "items": [
+      { "product_id": "P401", "quantity": 1, "unit_price": 180 },
+      { "product_id": "P403", "quantity": 2, "unit_price": 40 }
+    ]
+  },
+  {
+    "order_id": "O2004",
+    "order_timestamp": "2026-01-04 19:10:00",
+    "store_id": "S01",
+    "items": [
+      { "product_id": "P101", "quantity": 1, "unit_price": 45 },
+      { "product_id": "P302", "quantity": 3, "unit_price": 40 }
+    ]
+  },
+  {
+    "order_id": "O2005",
+    "order_timestamp": "2026-01-05 09:50:00",
+    "store_id": "S04",
+    "items": [
+      { "product_id": "P701", "quantity": 1, "unit_price": 3000 }
+    ]
+  },
+  {
+    "order_id": "O2006",
+    "order_timestamp": "2026-01-05 17:20:00",
+    "store_id": "S02",
+    "items": [
+      { "product_id": "P602", "quantity": 5, "unit_price": 10 },
+      { "product_id": "P601", "quantity": 2, "unit_price": 60 }
+    ]
+  },
+  {
+    "order_id": "O2007",
+    "order_timestamp": "2026-01-10 14:00:00",
+    "store_id": "S05",
+    "items": [
+      { "product_id": "P801", "quantity": 2, "unit_price": 180 },
+      { "product_id": "P803", "quantity": 1, "unit_price": 320 }
+    ]
+  },
+  {
+    "order_id": "O2008",
+    "order_timestamp": "2026-01-11 20:10:00",
+    "store_id": "S03",
+    "items": [
+      { "product_id": "P901", "quantity": 1, "unit_price": 450 },
+      { "product_id": "P903", "quantity": 2, "unit_price": 90 }
+    ]
+  },
+  {
+    "order_id": "O2009",
+    "order_timestamp": "2026-02-01 12:30:00",
+    "store_id": "S01",
+    "items": [
+      { "product_id": "P101", "quantity": 3, "unit_price": 45 }
+    ]
+  },
+  {
+    "order_id": "O2010",
+    "order_timestamp": "2026-02-02 16:45:00",
+    "store_id": "S04",
+    "items": [
+      { "product_id": "P1004", "quantity": 1, "unit_price": 1800 }
+    ]
+  }
+]

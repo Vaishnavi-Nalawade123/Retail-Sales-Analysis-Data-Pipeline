@@ -1,0 +1,9 @@
+[2026-01-28 22:30:33 +0530] [56117] [INFO] Starting gunicorn 23.0.0
+[2026-01-28 22:30:33 +0530] [56117] [INFO] Listening at: http://[::]:8793 (56117)
+[2026-01-28 22:30:33 +0530] [56117] [INFO] Using worker: sync
+[2026-01-28 22:30:33 +0530] [56118] [INFO] Booting worker with pid: 56118
+[2026-01-28 22:30:33 +0530] [56120] [INFO] Booting worker with pid: 56120
+[2026-01-28 22:32:25 +0530] [56117] [INFO] Handling signal: term
+[2026-01-28 22:32:25 +0530] [56118] [INFO] Worker exiting (pid: 56118)
+[2026-01-28 22:32:25 +0530] [56120] [INFO] Worker exiting (pid: 56120)
+[2026-01-28 22:32:25 +0530] [56117] [INFO] Shutting down: Master
